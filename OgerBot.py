@@ -97,7 +97,11 @@ class OgreBot(threading.Thread):
                     self.__send_error_message(message)
                     return
 
-            translated_comment = self.__translate_to_ogre_speak(message.parent().body)
+            if isinstance(message.parent(), praw.reddit.Submission):
+                translated_comment = self.__translate_to_ogre_speak(message.parent().selftext)
+            else:
+                translated_comment = self.__translate_to_ogre_speak(message.parent().body)
+
             reply = self.__config['HEADER'] + random.choice(self.__header_dictionary['header']) + translated_comment + \
                 self.__config['FOOTER']
 
@@ -107,7 +111,6 @@ class OgreBot(threading.Thread):
 
             print("New Comment!!!"
                   + "\n\tFrom: " + str(message.author)
-                  + "\n\tOriginal: " + message.parent().body
                   + "\n\tTranslation: " + translated_comment
                   + "\n\t")
 
@@ -129,8 +132,7 @@ class OgreBot(threading.Thread):
         return text_to_translate
 
     def __check_if_valid_message(self, message):
-        if (message.type == 'username_mention' or 'u/' + self.__bot_name in message.body) \
-                and isinstance(message, praw.reddit.Comment):
+        if message.type == 'username_mention' or 'u/' + self.__bot_name in message.body:
             return True
         return False
 
