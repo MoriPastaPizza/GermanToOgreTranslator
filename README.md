@@ -17,7 +17,6 @@
 	* [Wörterbuch erweitern](#wörterbuch-erweitern)
 	* [Normale Menschen](#du-kennst-dich-etzadla-mitm-bezeh-net-so-gut-aus)
 	* [Nerds](#du-hast-scho-amoal-in-gimb-was-neigspeicherd)
-* [Selber einen Bot bauen](#selber-einen-bot-bauen)
 * [Danksagungen](#danksagung)
 
 ## Über
@@ -77,8 +76,6 @@ Du kannst mir gerne helfen diesen Bot zu verbessern! Einfach einen Pullrequest m
 Jeder Vorschlag / Verbesserung am Source-Code oder an den Dictionaries ist herzlich wilkommen.
 
  
-
-## Selber einen Bot bauen
 
 ## Danksagung
 
