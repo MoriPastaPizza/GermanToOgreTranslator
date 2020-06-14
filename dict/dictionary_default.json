@@ -1,0 +1,655 @@
+{
+  "translate": {
+
+    "Rainer": [
+      "Ruiner",
+      "Reiner",
+      "Dreger",
+      "Kaschber",
+      "Legasdeniger",
+      "Fettsack",
+      "viddl Iddaliener",
+      "Butter",
+      "Mastoger",
+      "Suppengmogo",
+      "Speggi"
+    ],
+
+    "Rainerle": [
+      "Ruinerle",
+      "Reinerle",
+      "Dregerle",
+      "Kaschberle",
+      "Legasdenigerle",
+      "Fettsackle",
+      "viddl Iddaliener",
+      "Butter",
+      "Mastogerle",
+      "Suppengmogole",
+      "Speggi"
+    ],
+
+    "Winkler": [
+      "Wongl",
+      "Winggl",
+      "Lard",
+      "Bummsdi",
+      "Golem",
+      "Oger",
+      "Jutubber",
+      "Fettsack",
+      "Mastoger",
+      "Winklar",
+      "Dr.Dr.h.c.M.A Winkler",
+      "Speggi"
+    ],
+
+    "Drachenlord": [
+      "Fettsack",
+      "Wiggsgrübbl",
+      "Speckeimer",
+      "Lügenlord",
+      "Hoch IQ Lord",
+      "Jutubber",
+      "Butter Golem",
+      "Mastoger",
+      "Mastsau",
+      "Oger",
+      "Suppengmogo",
+      "Gumbllord",
+      "Lustlord",
+      "Informatiklord",
+      "Speggi"
+    ],
+
+    "Lord": [
+      "Lard",
+      "Lerd",
+      "Bummsdi",
+      "Lügenlord",
+      "Schwitzlord",
+      "Sifflord",
+      "Fettsack",
+      "begnadeter Jutubber",
+      "Butter Golem",
+      "Oger",
+      "Suppengmogo",
+      "Arbeitslord"
+    ],
+
+    "Drache": [
+      "Dreche",
+      "Dreger",
+      "Fettsack",
+      "viddl Iddaliener",
+      "Wiggsgrübbl",
+      "Net der Drache verdammte Aggst",
+      "Speckeimer",
+      "Suppengmogo",
+      "Wuchtbrummer"
+    ],
+
+    "Bauch": [
+      "Plautze",
+      "Wampe",
+      "Kessel",
+      "Wuchtbrumme"
+    ],
+
+    " Haus ": [
+      " Schanze ",
+      " Schimmelschanze ",
+      " Ruine "
+    ],
+
+    " Schanze ": [
+      " Schanze ",
+      " Schimmelschanze ",
+      " Ruine "
+    ],
+
+    " alter ": [
+      " alda ",
+      " alla "
+    ],
+    " Alter ": [
+      " Alda ",
+      " Alla "
+    ],
+    " hallo ": [
+      " meddl loide ",
+      " servus und wilkommen ",
+      " gonitschiwa "
+    ],
+    " Hallo ": [
+      " Meddl loide ",
+      " Servus und wilkommen ",
+      " Gonitschiwa "
+    ],
+
+    " leute ": [" loide "],
+    " Leute ": [" Loide "],
+
+    "schmeißen": ["nausgschmaßen"],
+    "geschmissen": ["nausgschmaßt"],
+    "schmeißt": ["nausschmaßen"],
+    "schmeiß": ["schmuaß"],
+
+    "blasen": ["blubber"],
+
+    "boxen": ["Brüggel Rausschmiß"],
+
+    "billig": ["billich"],
+
+    "Axt": ["Aggst"],
+
+    "Ramona": ["Ramoner"],
+
+    "Rita": ["Ritta"],
+
+    "Polizei": ["Bolizei"],
+
+    "Popcorn": ["Bobgorn"],
+    "popcorn": ["Bobgorn"],
+
+    "Idiot": [
+      "Kaggnazi",
+      "Wiggsgrübbl",
+      "Affennecher"
+    ],
+    "idiot": [
+      "Kaggnazi",
+      "Wiggsgrübbl"
+    ],
+
+    " dumm ": [" brainschaden "],
+
+    "Energy": [
+      "Enertschie"
+    ],
+
+    "energy": [
+      "enertschie"
+    ],
+
+    " ein ": [" a ", " oa "],
+
+    "fit" : ["fidd"],
+
+    "nicht hören": ["Ich hör dich ned du Spack, ich hab Kopfhörer auf"],
+
+    "Job": ["Tschobb"],
+    "job": ["Tschobb"],
+
+    "Hater": ["Haider"],
+    "hater": ["Haider"],
+    "Hate": ["Haid"],
+    "hate": ["Haid"],
+
+    "kann": ["koa"],
+
+    "Boneclinks": ["Bonklix"],
+    "boneclinks": ["bonklix"],
+
+    "jetzt": ["etzadla"],
+
+    "ja?": ["und weida?"],
+    "na und?": ["und weida?"],
+    "na und": ["und weida?"],
+
+    "Geld": ["Barrne"],
+    "Euro": ["Barrne €"],
+    " geld ": [" Barrne "],
+    " euro ": [" Barrne € "],
+    "Upvote": ["Barrne"],
+    "upvote": ["Barrne"],
+
+    "wütend": ["neutral"],
+    "Wütend": ["Neutral"],
+
+    " gemacht ": [
+      " nausgrendert "
+    ],
+
+    "raus gehaun": [
+      "nausgrendert"
+    ],
+
+    "raus hauen": [
+      "nausrendern"
+    ],
+
+    "gegessen": [
+      "neigschürt",
+      "neigerendert",
+      "neigstopft",
+      "neimeddld",
+      "in's gsicht gedrüggd",
+      "gnadenlos in's gsicht nei gedrüggt"
+    ],
+
+    "fressen": [
+      "neinschüren",
+      "reinnrendern",
+      "neistopfen",
+      "neimeddln"
+    ],
+
+    "gefressen": [
+      "neigschürt",
+      "neigerendert",
+      "neigstopft",
+      "neimeddld"
+    ],
+
+    "essen": [
+      "neinschüren",
+      "reinnrendern",
+      "neistopfen",
+      "neimeddln",
+      "in's gsicht drüggen",
+      "gnadenlos in's gsicht drüggen"
+
+    ],
+
+    " isst ": [
+      " neirenderd ",
+      " neischürd ",
+      " neistopft ",
+      " neimeddlt ",
+      " in's gsicht drüggt ",
+      " gnadenlos in's gsicht drüggt "
+    ],
+
+    " Angst ": [" wie se immer zuggen "],
+    " angst ": [" wie se immer zuggen "],
+
+    "freundin": ["froindin", "lel als ob", "Gummipubbe"],
+    "Freundin": ["Froindin", "Lel als ob", "Gummipubbe"],
+    "Gummipuppe": ["Froindin"],
+    "gummipuppe": ["Froindin"],
+
+    "Freund": [
+      "Gumbl",
+      "Froind"
+    ],
+    "freund": [
+      "Gumbl",
+      "Froind"
+    ],
+
+    "Penis": ["Speer", "Pimml", "Späher"],
+    "penis": ["Speer", "Pimml", "Späher"],
+
+    "Katana": ["Blechklinge", "hamstori hanser schwerd"],
+    "katana": ["Blechklinge", "hamstori hanser schwerd"],
+
+    "sagst": ["sachste"],
+
+    "programmieren": [
+      "HDML proggrammiert",
+      "in Gimb nei speichern"
+    ],
+
+    "sauer": ["mett"],
+
+    "Kumpel": ["Gumbl"],
+    "kumpel": ["gumbl"],
+
+    "Frau": ["Mulle"],
+    "frau": ["mulle"],
+
+    "bedeuten": ["imblementieren"],
+
+    "bedeutet": ["imblementiert"],
+
+    "nice": ["naise"],
+
+    "gelaufen": ["gemeddeld"],
+
+    "laufen": ["meddeln"],
+
+    " amen ": [" OHNE DREGG ALDER "],
+
+    "so ist es": ["OHNE DREGG ALDER"],
+
+    "Stock": ["Sdogg"],
+
+    " mal ": [" mol ", " moal "],
+
+    " einmal ": [" amol ", " amoal "],
+
+    "Gimp": ["Gimb"],
+
+    "Cola": ["Koler"],
+    "cola": ["Koler"],
+
+    "wie heißt du": ["anaddanowanaiwa Nandeska"],
+
+    "freut mich": ["hadschimi masde"],
+
+    "Zelda": [
+      "Zelad bride of the Wind",
+      "Tselda bref of se wild",
+      "Tselda"
+    ],
+
+    "Bier": [
+      "Löschzwerg",
+      "Vigginger-Blud"
+    ],
+
+    "Franken": ["Meddlfranggen"],
+    "franken": ["meddlfranggen"],
+
+    "mittel": ["meddl"],
+    "Mittel": ["Meddl"],
+
+    "schlau": ["hoher Ikuh"],
+    "clever": ["hoher Ikuh"],
+    "klug": ["hoher Ikuh"],
+
+    "gut in": ["hoher Ikuh in"],
+
+    "IQ": ["Ikuh"],
+
+    "japanisch": ["jaboanisch"],
+
+    " Früher ": [" mit 4 mit'm Vadda im Wald "],
+    " früher ": [" mit 4 mit'm Vadda im Wald "],
+
+    "Life is strange": ["Life is stranger"],
+
+    "Kleinstadt": ["Klingelständer"],
+
+    "speichern": ["in Gimb neispeichern"],
+
+    "Kampfsport": ["Muay-Thai"],
+    "kampfsport": ["Muay-Thai"],
+
+    "hacken": [
+      "in Gimb neispeichern",
+      "in Gimb neirendern"
+    ],
+
+    "gehackt": [
+      "in Gimb neispeichert",
+      "in Gimb neigrendert"
+    ],
+
+    "iBlali": ["EiBlalü"],
+    "iblali": ["EiBlalü"],
+
+    "arbeitet": [
+      "Schneidet, rendert, läd-hoch",
+      "Frisst, Wiggst, Zockt",
+      "Led's plaiet"
+    ],
+
+    "Arbeit": [
+      "Schneiden, rendern, hochladen",
+      "Fressne, Wiggsne, Zockne",
+      "Led's plaien"
+    ],
+    "arbeit": [
+      "schneiden, rendern, hochladen",
+      "fressne, Wiggsne, Zockne",
+      "Led's plaien"
+    ],
+    "arbeiten": [
+      "schneiden, rendern, hochladen",
+      "fressne, Wiggsne, Zockne",
+      "Led's plain"
+    ],
+
+    " besonders ": ["höchste Wesne"],
+
+    "Gott": ["Dreche himself"],
+    "gott": ["Dreche himself"],
+
+    "Wahnsinnig": ["Wahnsinnicn"],
+    "Wahnsinnigen": ["Wahnsinnichen"],
+
+    "geschaut": ["gschaut"],
+
+    " rein " : [" 'nei "],
+
+    "arbeitslos": ["abbeidslos"],
+
+    "derjenige": ["derjeniche "],
+
+    "poetry slam": ["boedri slemm"],
+    "Poetry slam": ["boedri slemm"],
+
+    "Haut": ["kein Organ"],
+    "haut": ["kein Organ"],
+
+    "wtf": ["Wottse fack"],
+    "WTF": ["Wottse fack"],
+    "Wtf": ["Wottse fack"],
+    "what the fuck": ["Wottse fack"],
+    "What the fuck": ["Wottse fack"],
+
+    " Wow ": [" Alta Falta "],
+    " wow ": [" Alta Falta "],
+
+    "verpiss": ["fapiss"],
+
+    "hübsch": ["geiles stück du geiles"],
+
+    "Geil": ["geiles stück du geiles"],
+    "geil": ["geiles stück du geiles"],
+
+    " gut " : [
+      " richtig und wichtig! ",
+      " naise Sache "
+    ],
+
+    "nicht": ["ned"],
+
+    " auf ": [" uff "],
+
+    "ist er": ["issa"],
+
+    "wieder": ["widda"],
+
+    "Pizza": ["Piddsa"],
+    "pizza": ["piddsa"],
+
+    "Bombe": ["risiche Bombe"],
+    "Böller": ["risiche Bombe"],
+    "Sprengstoff": ["risiche Bombe"],
+    "Dynamit": ["risiche Bombe"],
+    "TNT": ["risiche Bombe"],
+
+    "bannen": ["den Banhammer schwingen"],
+    "gebannt": ["vom Banhammer erschlagen"],
+    "bann": ["schwing den Banhammer"],
+
+    "Frosch": ["HAHAHAHA a Frosch"],
+    "frosch": ["HAHAHAHA a Frosch"],
+
+    "Biker": ["Beiker"],
+    "biker": ["beiker"],
+
+    "awesome": ["awsem"],
+
+    "Thread": ["Treid"],
+    "thread": ["treid"],
+
+    "Why": ["Wai"],
+    "why": ["wai"],
+
+    " Bandana ": [" Tabaktuch "],
+
+    "Claire": ["Klähger"],
+
+    "Cloe": ["Klöten"],
+    "cloe": ["klöten"],
+
+    "Collage": ["Kolasche"],
+    "collage": ["kolasche"],
+
+    "Computer": ["Gombjuta"],
+    "computer": ["gombjuta"],
+
+    "Challenge": ["Schälensch"],
+    "challenge": ["schälensch"],
+
+    "Details": ["Deteis"],
+    "details": ["deteis"],
+
+    "Flughafen": ["Flugstation"],
+    "flughafen": ["flugstation"],
+
+    "Footage": ["Futitch"],
+    "footage": ["futitch"],
+
+    "Genre": ["Genere"],
+    "genre": ["genere"],
+
+    "Hass": ["-"],
+    "hass": ["-"],
+
+    "Interview": ["Intervieu"],
+    "interview": ["intervieu"],
+
+    "Ironie": ["Iruni"],
+    "ironie": ["iruni"],
+
+    "Mettwurst": ["Meddworsd"],
+    "mettwurst": ["meddworsd"],
+
+    "Mittwoch": [
+      "Mettwoch",
+      "Meddlwoch"
+    ],
+    "mittwoch": [
+      "mettwoch",
+      "meddlwoch"
+    ],
+
+    "nationalsozialistisch": ["narzistisch"],
+    "Nationalsozialist": ["Narzist"],
+    "nationalsozialist": ["narzist"],
+
+    "Paparazzi": ["Parpazins"],
+    "paparazzi": ["parpazins"],
+
+    "PC": ["Bezeh"],
+    "Pc": ["Bezeh"],
+    "pc": ["Bezeh"],
+
+    "Pointe": ["Puernte"],
+    "pointe": ["puernte"],
+
+    "Realtalk": ["Real Tack"],
+    "realtalk": ["Real Tack"],
+
+    "recherchieren": ["reschaschieren"],
+
+    "Snapchat": ["Snapchet"],
+    "snapchat": ["snapchet"],
+
+    "Spaghetti": ["Spaketie"],
+    "spaghetti": ["spaketie"],
+
+    "Summer Breeze": ["Zummer Briis"],
+    "summer breeze": ["Zummer Briis"],
+    "summerbreeze": ["Zummer Briis"],
+    "Summerbreeze": ["Zummer Briis"],
+
+    "Twitter": ["Twidda"],
+    "twitter": ["Twidda"],
+
+    "im ernst": ["ohne Spass alda", "ohne dregg alda"],
+    "im Ernst": ["ohne Spass alda", "ohne dregg alda"],
+
+    "Verhütung": ["Ferienhütte"],
+    "verhütung": ["Ferienhütte"],
+
+    "Verprügeln": ["Brügel rausschmeißen"],
+    "verprügeln": ["Brügel rausschmeißen"],
+
+    "Younow": ["Junau"],
+    "younow": ["Junau"],
+    "you now": ["Junau"],
+    "You Now": ["Junau"],
+    "You-Now": ["Junau"],
+    "you-now": ["Junau"],
+
+    "Youtube": ["Jutjub"],
+    "YouTube": ["Jutjub"],
+    "youtube": ["Jutjub"],
+    "You tube": ["Jutjub"],
+    "You Tube": ["Jutjub"],
+    "You-tube": ["Jutjub"],
+    "You-Tube": ["Jutjub"],
+
+    "Gehirn": ["Hörn"],
+    "gehirn": ["hörn"],
+
+    " Rewe ": [" Zwingel "],
+    " rewe ": [" Zwingel "],
+
+    "Ezio": [
+      "ETZIO, ALDA",
+      "ETZIO",
+      "ÄZZIOH",
+      "ÄZZIO DU BIST EIN VERDAMMTER HURENSOHN"
+    ],
+
+    "ETZIO": [
+      "ETZIO, ALDA",
+      "ETZIO",
+      "ÄZZIOH",
+      "ÄZZIO DU BIST EIN VERDAMMTER HURENSOHN"
+    ],
+
+    "trivial": ["trivago"],
+    "Trivial": ["Trivago"],
+
+    "Photoshop": ["fotoschobb"],
+
+    "!": [
+      " tazächlich!",
+      " tazächlich sogar!"
+    ],
+
+    "?": [
+      " Oda wat?",
+      " und weida?"
+    ],
+
+    " \"": [" *ferstellt Stimme:* \"Üh, "],
+
+    "en ":  ["ne "],
+    "en. ": ["ne. "],
+    "tz":   ["ds"],
+    "tel ":  ["dl "],
+    "ph":   ["f"],
+    "Ph":   ["F"],
+    "pa":   ["boa"],
+    "ck":   ["gg"],
+    "st":   ["schd"],
+    "St":   ["Schd"],
+    " Sp": [" Schb"],
+    " sp": [" schb"],
+    " ch":  ["k"],
+    " Ch":  ["K"],
+    "eug ":   ["euch "],
+    "t":    ["d"],
+    "T":    ["D"],
+    " v":   [" f"],
+    "v ":   ["f "],
+    "v":    ["w"],
+    "V":    ["F"],
+    "x":    ["ggs"],
+    "X":    ["ggs"],
+    "p":    ["b"],
+    "P":    ["B"],
+    "k":    ["g"],
+    "K":    ["G"],
+    ".": [" hätt ich gsachd.", " des bascht scho.", " alda.", " tadsächlich sogar.", ".", ".",".",".",".","."]
+  }
+}

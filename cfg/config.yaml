@@ -1,0 +1,9 @@
+---
+BOT_TIMEOUT_MS: 3000
+BOT_INBOX_LIMIT: 200
+
+HEADER: "*beep. boop.* 🤖 "
+INFO_LINK: "[**Info**](https://github.com/MoriPastaPizza/GermanToOgreTranslator)"
+GITHUB_LINK: "[**Github**](https://github.com/MoriPastaPizza/GermanToOgreTranslator)"
+INFO_TEXT_ERROR: "Ohje.. hier ist wohl etwas schief gelaufen. Beschwerden direkt an Herr Winkler, Lob & Verbesserungen an den [**Kaschber**](https://www.reddit.com/user/MoriPastaPizza) der mich gebaut hat \n\n"
+HEADER_ERROR: "*beeeeebb....* 💀 Besiegt.....\n\n"
