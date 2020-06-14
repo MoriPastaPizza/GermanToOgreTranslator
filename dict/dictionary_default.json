@@ -12,7 +12,8 @@
       "Butter",
       "Mastoger",
       "Suppengmogo",
-      "Speggi"
+      "Speggi",
+      "Vierteltonner"
     ],
 
     "Rainerle": [
@@ -59,7 +60,9 @@
       "Gumbllord",
       "Lustlord",
       "Informatiklord",
-      "Speggi"
+      "Speggi",
+      "Vierteltonner",
+      "Animewelt Lord"
     ],
 
     "Lord": [
@@ -185,6 +188,9 @@
     "hater": ["Haider"],
     "Hate": ["Haid"],
     "hate": ["Haid"],
+
+    "zerstören": ["zermeddln"],
+    "zerstört": ["zermeddld"],
 
     "kann": ["koa"],
 
@@ -337,6 +343,16 @@
     "Bier": [
       "Löschzwerg",
       "Vigginger-Blud"
+    ],
+
+    "Manieren": [
+      "Alda kein Erziehung genossen?",
+      "Eure Eltern würden sich schämen"
+    ],
+
+    "manieren": [
+      "Alda kein Erziehung genossen?",
+      "Eure Eltern würden sich schämen"
     ],
 
     "Franken": ["Meddlfranggen"],
@@ -561,6 +577,12 @@
 
     "Twitter": ["Twidda"],
     "twitter": ["Twidda"],
+
+    "Weiter so": ["Meddl on"],
+    "weiter so": ["meddl on"],
+
+    "Polizist": ["Herr Müller"],
+    "polizist": ["Herr Müller"],
 
     "im ernst": ["ohne Spass alda", "ohne dregg alda"],
     "im Ernst": ["ohne Spass alda", "ohne dregg alda"],
