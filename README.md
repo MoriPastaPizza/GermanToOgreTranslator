@@ -33,7 +33,7 @@ Das Drachengame hat mir viele Lacher und Momente beschert. Ich wollte auch mal m
 ## How-To
 Dich nervt ein Post / Kommentar der im "Hochdeutschen" geschrieben wurde? Erwähne einfach den [DeutschZuOgerBot](https://www.reddit.com/user/DeutschZuOgerBot/) in einem Kommentar!
 
-    /u/DeutschZuOgerBot
+    u/DeutschZuOgerBot
    
    Er sollte so schnell wie möglich zurückmeddln und den orginal Text übersetzten!
 
