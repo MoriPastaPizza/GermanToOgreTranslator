@@ -87,7 +87,7 @@ class OgreBot(threading.Thread):
 
         try:
 
-            if "/u/" + self.__bot_name + " \\--" in message.body:
+            if "u/" + self.__bot_name + " \\--" in message.body:
 
                 additional_parameter = re.search("--(.*)", message.body)
                 additional_parameter = additional_parameter.group(1).split(" ")[0]
@@ -129,7 +129,7 @@ class OgreBot(threading.Thread):
         return text_to_translate
 
     def __check_if_valid_message(self, message):
-        if (message.type == 'username_mention' or '/u/' + self.__bot_name in message.body) \
+        if (message.type == 'username_mention' or 'u/' + self.__bot_name in message.body) \
                 and isinstance(message, praw.reddit.Comment):
             return True
         return False
