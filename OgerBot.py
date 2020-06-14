@@ -124,11 +124,7 @@ class OgreBot(threading.Thread):
         # hahah for loop goes: brrrrrrrrrrrrrrrrrrrrrrrr
         for key, item in full_list.items():
             word_to_translate = key
-            if len(item) > 1:
-                translated_word = random.choice(item)
-            else:
-                translated_word = item[0]
-            text_to_translate = text_to_translate.replace(word_to_translate, translated_word)
+            text_to_translate = text_to_translate.replace(word_to_translate, random.choice(item))
 
         return text_to_translate
 
