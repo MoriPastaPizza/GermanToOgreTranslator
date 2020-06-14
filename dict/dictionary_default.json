@@ -228,11 +228,18 @@
     ],
 
     "raus gehaun": [
-      "nausgrendert"
+      "nausgrendert",
+      "nausgeschmaßt"
     ],
 
     "raus hauen": [
-      "nausrendern"
+      "nausrendern",
+      "nausschmaßen"
+    ],
+
+    "raushauen": [
+      "nausrendern",
+      "nausschmaßen"
     ],
 
     "gegessen": [
