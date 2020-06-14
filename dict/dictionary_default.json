@@ -184,10 +184,20 @@
     "Job": ["Tschobb"],
     "job": ["Tschobb"],
 
-    "Hater": ["Haider"],
-    "hater": ["Haider"],
+    "Hater": [
+      "Haider",
+      "Kagghaider",
+      "Kaggnazi",
+    ],
+
+    "hater": [
+      "haider",
+      "kagghaider",
+      "kaggnazi",
+    ],
+
     "Hate": ["Haid"],
-    "hate": ["Haid"],
+    "hate": ["haid"],
 
     "zerstören": ["zermeddln"],
     "zerstört": ["zermeddld"],
@@ -635,6 +645,13 @@
     "Trivial": ["Trivago"],
 
     "Photoshop": ["fotoschobb"],
+
+    "tatsächlich": [
+      "tazächlich",
+      "tadzächlich",
+      "eztala tazächlich sogar",
+      "eztala tadzächlich sogar"
+    ],
 
     "!": [
       " tazächlich!",
