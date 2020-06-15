@@ -1,6 +1,34 @@
 {
   "translate": {
 
+    "en ":  ["ne "],
+    "en. ": ["ne. "],
+    "tz":   ["ds"],
+    "tel ":  ["dl "],
+    "ph":   ["f"],
+    "Ph":   ["F"],
+    "pa":   ["boa"],
+    "ck":   ["gg"],
+    " Sp": [" Schb"],
+    " sp": [" schb"],
+    " St": [" Schd"],
+    " st": [" schd"],
+    " ch":  [" k"],
+    " Ch":  [" K"],
+    "eug ":   ["euch "],
+    "t":    ["d"],
+    "T":    ["D"],
+    " v":   [" f"],
+    "v ":   ["f "],
+    "v":    ["w"],
+    "V":    ["W"],
+    "x":    ["ggs"],
+    "X":    ["ggs"],
+    "p":    ["b"],
+    "P":    ["B"],
+    "k":    ["g"],
+    "K":    ["G"],
+
     "Rainer": [
       "Ruiner",
       "Reiner",
@@ -180,7 +208,7 @@
     "Rita": [
       "Rita",
       "Riter",
-      "Rita aus Weiden",
+      "Rita aus Weiden"
     ],
 
     "Ramona": [
@@ -751,34 +779,6 @@
 
     ".": [" hätt ich gsachd.", " des bascht scho.", " alda.", " tadsächlich sogar.", ".", ".",".",".",".","."],
 
-    " \"": [" *ferstellt Stimme:* \"Üh, "],
-
-    "en ":  ["ne "],
-    "en. ": ["ne. "],
-    "tz":   ["ds"],
-    "tel ":  ["dl "],
-    "ph":   ["f"],
-    "Ph":   ["F"],
-    "pa":   ["boa"],
-    "ck":   ["gg"],
-    " Sp": [" Schb"],
-    " sp": [" schb"],
-    " St": [" Schd"],
-    " st": [" schd"],
-    " ch":  [" k"],
-    " Ch":  [" K"],
-    "eug ":   ["euch "],
-    "t":    ["d"],
-    "T":    ["D"],
-    " v":   [" f"],
-    "v ":   ["f "],
-    "v":    ["w"],
-    "V":    ["W"],
-    "x":    ["ggs"],
-    "X":    ["ggs"],
-    "p":    ["b"],
-    "P":    ["B"],
-    "k":    ["g"],
-    "K":    ["G"]
+    " \"": [" *ferstellt Stimme:* \"Üh, "]
   }
 }
