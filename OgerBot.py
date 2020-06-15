@@ -200,7 +200,7 @@ class OgreBot(threading.Thread):
 
 def startup():
     try:
-        my_bot = OgreBot("DeutschZuOgerTester", "PastaPizzaSecretAgent", test_mode=False)
+        my_bot = OgreBot("DeutschZuOgerBot", "PastaPizzaSecretAgent", test_mode=False)
         my_bot.start()
         input("Press enter to exit")
         my_bot.stop()
