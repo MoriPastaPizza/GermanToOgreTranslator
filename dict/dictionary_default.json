@@ -62,7 +62,9 @@
       "Informatiklord",
       "Speggi",
       "Vierteltonner",
-      "Animewelt Lord"
+      "Animewelt Lord",
+      "Diabetesdumbo",
+      "selbständiger Schichtarbeiter"
     ],
 
     "Lord": [
@@ -146,10 +148,6 @@
 
     "Axt": ["Aggst"],
 
-    "Ramona": ["Ramoner"],
-
-    "Rita": ["Ritta"],
-
     "Polizei": ["Bolizei"],
 
     "Popcorn": ["Bobgorn"],
@@ -161,7 +159,8 @@
     "Idiot": [
       "Kaggnazi",
       "Wiggsgrübbl",
-      "Affennecher"
+      "Affennecher",
+      "Spaggn"
     ],
     "idiot": [
       "Kaggnazi",
@@ -170,6 +169,29 @@
 
     "Nazi": ["Kaggnazi"],
     "nazi": ["kaggnazi"],
+
+    "Rudi": [
+      "Rudi",
+      "Rudi aus Buddeln",
+      "SS-Obersturmbannführer Rudolf Winkler",
+      "Nazi-Kriegsverbrecher Rudolf Winkler"
+    ],
+
+    "Rita": [
+      "Rita",
+      "Riter",
+      "Rita aus Weiden",
+    ],
+
+    "Ramona": [
+      "Ramona",
+      "Ramoner"
+    ],
+
+    "reddit": ["Lachschon"],
+
+    "Musik hören": ["headbangen"],
+    "Musik gehört": ["geheadbangt"],
 
     " dumm ": [" brainschaden "],
 
@@ -185,7 +207,10 @@
 
     "fit" : ["fidd"],
 
-    "nicht hören": ["Ich hör dich ned du Spack, ich hab Kopfhörer auf"],
+    "nicht hören": [
+      "Ich hör dich ned du Spack, ich hab Kopfhörer auf",
+      "can you not hear"
+    ],
 
     "Job": ["Tschobb"],
     "job": ["Tschobb"],
@@ -290,8 +315,8 @@
       "Froind"
     ],
 
-    "Penis": ["Speer", "Pimml", "Späher"],
-    "penis": ["Speer", "Pimml", "Späher"],
+    "Penis": ["Speer", "Pimml", "Späher", "Pensi"],
+    "penis": ["Speer", "Pimml", "Späher", "pensi"],
 
     "Katana": ["Blechklinge", "hamstori hanser schwerd"],
     "katana": ["Blechklinge", "hamstori hanser schwerd"],
@@ -308,14 +333,15 @@
     "Kumpel": ["Gumbl"],
     "kumpel": ["gumbl"],
 
-    "Frau": ["Mulle"],
-    "frau": ["mulle"],
+    "Frau": ["Mulle", "Weib"],
+    "frau": ["mulle", "weib"],
+    "Frauen": ["Mullen", "Weiber"],
 
     "bedeuten": ["imblementieren"],
 
     "bedeutet": ["imblementiert"],
 
-    "nice": ["naise"],
+    "nice": ["nais"],
 
     "gelaufen": ["gemeddeld"],
 
@@ -401,9 +427,6 @@
       "in Gimb neispeichert",
       "in Gimb neigrendert"
     ],
-
-    "iBlali": ["EiBlalü"],
-    "iblali": ["EiBlalü"],
 
     "arbeitet": [
       "Schneidet, rendert, läd-hoch",
@@ -654,7 +677,61 @@
 
     "Photoshop": ["fotoschobb"],
 
+    "dass": ["das"],
+    "wenn": ["wen"],
+
+    "ficken": [
+      "positzioniren",
+      "bositzioniren"
+    ],
+
+    "wichsen": ["wiggsne"],
+    "masturbieren": ["wiggsne"],
+
+    " Jungfrau": ["ungefickt"],
+    "jungfräulich": ["ungefickt"],
+
+    "Sexschreiben": ["seggsschreibne"],
+
+    "PornHub": ["PH"],
+    "Pornhub": ["PH"],
+    "pornhub": ["PH"],
+
+    "warum": ["warummäh"],
+    "Warum": ["Warummäh"],
+
+    "Danke": ["Danke dafür iBlali"],
+
+    "weniger": ["wenicher"],
+
+    "wenig": ["a weng"],
+
+    "fake": ["feek"],
+    "Fakemulle": ["Feekmulle", "Beerchen"],
+
+    "Halts Maul": ["HALT *atmen* DEINE *atmen* FRESSE"],
+    "halts Maul": ["HALT *atmen* DEINE *atmen* FRESSE"],
+    "Halts maul": ["HALT *atmen* DEINE *atmen* FRESSE"],
+    "halts maul": ["HALT *atmen* DEINE *atmen* FRESSE"],
+
+    "tatsächlich": [
+      "tazächlich",
+      "tadzächlich",
+      "etzala tazächlich sogar",
+      "etzala tadzächlich sogar"
+    ],
+
+    "Metal": ["Meddl"],
+
+    "Besuche": ["Pilgerreisen"],
+    "Besuch": ["Pilgerreise"],
+
+    "implizier": ["implementier"],
+
+    "Mund": ["Schlund"],
+
     "!": [
+      " etzala!",
       " tazächlich!",
       " tazächlich sogar!",
       " hätt ich gsachd!",
