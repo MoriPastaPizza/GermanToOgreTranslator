@@ -3,7 +3,7 @@ Alle wichtigen Änderungen sind hier
 
 Basierend auf: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
-## [1.1.0] - 15-06-2020
+## 1.1.0 - 15-06-2020
 ### Added
 - Changelog Link im Footer
 - Bot kann auf Bilder und Texts Posts antworten (Titel wird nun auch mit übersetzt)
@@ -19,10 +19,10 @@ Basierend auf: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Bot antwortet auf Posts nicht mehr mit Fehler meldung (vorher gingen nur Kommentare!)
 
 
-## [1.0.1] - 14-06-2020
+## 1.0.1 - 14-06-2020
 ### Fixed
 - Error Spam meldung
 
-## [1.0.0] - 14-06-2020
+## 1.0.0 - 14-06-2020
 ### Added
 - Erster public Release
