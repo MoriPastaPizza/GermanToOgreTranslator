@@ -1,7 +1,15 @@
+
 # Changelog
 Alle wichtigen Änderungen sind hier
 
 Basierend auf: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+
+## 1.1.1 - 15-06-2020
+### Added
+- Viele neue Wörter danke an [RudiAusBuddeln](https://github.com/RudiAusBuddeln)
+
+### Changed
+- Generischen Buchstabenkombinationen nach oben verlagert, danke an [RudiAusBuddeln](https://github.com/RudiAusBuddeln)
 
 ## 1.1.0 - 15-06-2020
 ### Added
