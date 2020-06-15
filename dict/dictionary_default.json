@@ -155,6 +155,9 @@
     "Popcorn": ["Bobgorn"],
     "popcorn": ["Bobgorn"],
 
+    "Post": ["Boscht"],
+    "post": ["boscht"],
+
     "Idiot": [
       "Kaggnazi",
       "Wiggsgrübbl",
@@ -164,6 +167,9 @@
       "Kaggnazi",
       "Wiggsgrübbl"
     ],
+
+    "Nazi": ["Kaggnazi"],
+    "nazi": ["kaggnazi"],
 
     " dumm ": [" brainschaden "],
 
@@ -611,6 +617,9 @@
     "You-tube": ["Jutjub"],
     "You-Tube": ["Jutjub"],
 
+    " typ ": ["düb"],
+    " Typ ": ["Düb"],
+
     "Gehirn": ["Hörn"],
     "gehirn": ["hörn"],
 
@@ -641,13 +650,19 @@
       " tazächlich sogar!",
       " hätt ich gsachd!",
       " alda!",
-      " des bascht scho!"
+      " des bascht scho!",
+      "!",
+      "!"
     ],
 
     "?": [
       " Oda wat?",
-      " und weida?"
+      " und weida?",
+      "?",
+      "?"
     ],
+
+    ".": [" hätt ich gsachd.", " des bascht scho.", " alda.", " tadsächlich sogar.", ".", ".",".",".",".","."],
 
     " \"": [" *ferstellt Stimme:* \"Üh, "],
 
@@ -659,10 +674,10 @@
     "Ph":   ["F"],
     "pa":   ["boa"],
     "ck":   ["gg"],
-    "st":   ["schd"],
-    "St":   ["Schd"],
     " Sp": [" Schb"],
     " sp": [" schb"],
+    " St": [" Schd"],
+    " st": [" schd"],
     " ch":  ["k"],
     " Ch":  ["K"],
     "eug ":   ["euch "],
@@ -671,13 +686,12 @@
     " v":   [" f"],
     "v ":   ["f "],
     "v":    ["w"],
-    "V":    ["F"],
+    "V":    ["W"],
     "x":    ["ggs"],
     "X":    ["ggs"],
     "p":    ["b"],
     "P":    ["B"],
     "k":    ["g"],
-    "K":    ["G"],
-    ".": [" hätt ich gsachd.", " des bascht scho.", " alda.", " tadsächlich sogar.", ".", ".",".",".",".","."]
+    "K":    ["G"]
   }
 }

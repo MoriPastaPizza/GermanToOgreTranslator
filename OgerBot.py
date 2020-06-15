@@ -4,6 +4,7 @@ import json
 import random
 import threading
 import re
+from datetime import datetime
 
 import praw
 import yaml
@@ -97,22 +98,30 @@ class OgreBot(threading.Thread):
                     self.__send_error_message(message)
                     return
 
-            if isinstance(message.parent(), praw.reddit.Submission):
-                translated_comment = self.__translate_to_ogre_speak(message.parent().selftext)
-            else:
-                translated_comment = self.__translate_to_ogre_speak(message.parent().body)
+            message_to_translate = message.parent()
 
-            reply = self.__config['HEADER'] + random.choice(self.__header_dictionary['header']) + translated_comment + \
-                self.__config['FOOTER']
+            if isinstance(message_to_translate, praw.reddit.Submission):
+                title = message_to_translate.title
+                body = message_to_translate.selftext
+                text_to_translate = "**" + title + "**" + "\n\n" + body
+            else:
+                text_to_translate = message_to_translate.body
+
+            translated_text = self.__translate_to_ogre_speak(text_to_translate)
+
+            reply = self.__config['HEADER'] + random.choice(self.__header_dictionary['header']) + translated_text + \
+                    self.__config['FOOTER']
 
             if not self.__test_mode:
                 message.reply(reply)
                 message.mark_read()
 
             print("New Comment!!!"
-                  + "\n\tFrom: " + str(message.author)
-                  + "\n\tTranslation: " + translated_comment
-                  + "\n\t")
+                  + "\n\nTime: " + datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+                  + "\n\nFrom: " + str(message.author)
+                  + "\n\nOriginal Text: " + text_to_translate
+                  + "\n\nTranslation: " + translated_text
+                  + "\n\n")
 
         except Exception as e:
             print(e)
@@ -150,7 +159,16 @@ class OgreBot(threading.Thread):
 
         except Exception as e:
             print(e)
+            self.__reply_per_pm(message)
+            message.mark_read()
             return
+
+    @staticmethod
+    def __reply_per_pm(message):
+        reply = "Sorry ich hab nicht funktioniert, evtl. bin ich in diesem Sub gebannt :("
+        topic = "Whoops"
+        user = message.author
+        user.message(topic, reply)
 
     @staticmethod
     def __init_reddit_instance(bot_name, bot_user_agent):
@@ -162,12 +180,14 @@ class OgreBot(threading.Thread):
         with open(conf_file, encoding='utf8') as f:
             configuration = yaml.safe_load(f)
 
-        configuration['FOOTER'] = "\n\n ***  \n" + configuration['INFO_LINK']\
-            + "&#32;|&#32;" + "&#32;|&#32;" + configuration['GITHUB_LINK']
+        configuration['FOOTER'] = "\n\n ***  \n" + configuration['INFO_LINK'] \
+                                  + "&#32;|&#32;" + "&#32;|&#32;" + configuration['GITHUB_LINK']\
+                                  + "&#32;|&#32;" + "&#32;|&#32;" + "**NEW** " + configuration['CHANGELOG_LINK']
 
-        configuration['FOOTER_ERROR'] = "\n\n ***  \n" + configuration['INFO_TEXT_ERROR'] + "\n"\
-            + configuration['INFO_LINK'] + "&#32;|&#32;" + "&#32;|&#32;"\
-            + configuration['GITHUB_LINK']
+        configuration['FOOTER_ERROR'] = "\n\n ***  \n" + configuration['INFO_TEXT_ERROR'] + "\n" \
+                                        + configuration['INFO_LINK'] + "&#32;|&#32;" + "&#32;|&#32;" \
+                                        + configuration['GITHUB_LINK'] \
+                                        + "&#32;|&#32;" + "&#32;|&#32;" + "**NEW** " + configuration['CHANGELOG_LINK']
 
         return configuration
 
@@ -180,7 +200,7 @@ class OgreBot(threading.Thread):
 
 def startup():
     try:
-        my_bot = OgreBot("DeutschZuOgerBot", "PastaPizzaSecretAgent", test_mode=False)
+        my_bot = OgreBot("DeutschZuOgerTester", "PastaPizzaSecretAgent", test_mode=False)
         my_bot.start()
         input("Press enter to exit")
         my_bot.stop()
