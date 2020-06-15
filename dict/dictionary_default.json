@@ -465,6 +465,9 @@
     "Geil": ["geiles stück du geiles"],
     "geil": ["geiles stück du geiles"],
 
+    "ist gut": ["bin gerückt"],
+    "Ist gut": ["Bin gerückt"],
+
     " gut " : [
       " richtig und wichtig! ",
       " naise Sache "
@@ -620,6 +623,12 @@
     " typ ": ["düb"],
     " Typ ": ["Düb"],
 
+    "dünn": ["dünn (Du meintest wohl fett)", "hahaha"],
+    "Dünn": ["Dünn (Du meintest wohl fett)", "hahaha"],
+
+    "schlank": ["schlank (Du meintest wohl fett)", "hahaha"],
+    "Schlank": ["Schlank (Du meintest wohl fett)", "hahaha"],
+
     "Gehirn": ["Hörn"],
     "gehirn": ["hörn"],
 
@@ -657,6 +666,7 @@
 
     "?": [
       " Oda wat?",
+      " Hä?",
       " und weida?",
       "?",
       "?"
