@@ -62,7 +62,8 @@
       "Informatiklord",
       "Speggi",
       "Vierteltonner",
-      "Animewelt Lord"
+      "Animewelt Lord",
+      "Diabetesdumbo"
     ],
 
     "Lord": [
@@ -308,8 +309,9 @@
     "Kumpel": ["Gumbl"],
     "kumpel": ["gumbl"],
 
-    "Frau": ["Mulle"],
-    "frau": ["mulle"],
+    "Frau": ["Mulle", "Weib"],
+    "frau": ["mulle", "weib"],
+    "Frauen": ["Mullen", "Weiber"],
 
     "bedeuten": ["imblementieren"],
 
@@ -401,9 +403,6 @@
       "in Gimb neispeichert",
       "in Gimb neigrendert"
     ],
-
-    "iBlali": ["EiBlalü"],
-    "iblali": ["EiBlalü"],
 
     "arbeitet": [
       "Schneidet, rendert, läd-hoch",
@@ -645,7 +644,42 @@
 
     "Photoshop": ["fotoschobb"],
 
+    "dass": ["das"],
+    "wenn": ["wen"],
+
+    "ficken": [
+      "positzioniren",
+      "bositzioniren"
+    ],
+
+    "wichsen": ["wiggsne"],
+    "masturbieren": ["wiggsne"],
+
+    " Jungfrau": ["ungefickt"],
+    "jungfräulich": ["ungefickt"],
+
+    "PornHub": ["PH"],
+    "Pornhub": ["PH"],
+    "pornhub": ["PH"],
+
+    "warum": ["warummäh"],
+    "Warum": ["Warummäh"],
+
+    "Danke": ["Danke dafür iBlali"],
+
+    "wenig": ["a weng"],
+
+    "tatsächlich": [
+      "tazächlich",
+      "tadzächlich",
+      "etzala tazächlich sogar",
+      "etzala tadzächlich sogar"
+    ],
+
+    "Metal": ["Meddl"],
+
     "!": [
+      " etzala!",
       " tazächlich!",
       " tazächlich sogar!",
       " hätt ich gsachd!",
