@@ -63,7 +63,8 @@
       "Speggi",
       "Vierteltonner",
       "Animewelt Lord",
-      "Diabetesdumbo"
+      "Diabetesdumbo",
+      "selbständiger Schichtarbeiter"
     ],
 
     "Lord": [
@@ -147,10 +148,6 @@
 
     "Axt": ["Aggst"],
 
-    "Ramona": ["Ramoner"],
-
-    "Rita": ["Ritta"],
-
     "Polizei": ["Bolizei"],
 
     "Popcorn": ["Bobgorn"],
@@ -162,7 +159,8 @@
     "Idiot": [
       "Kaggnazi",
       "Wiggsgrübbl",
-      "Affennecher"
+      "Affennecher",
+      "Spaggn"
     ],
     "idiot": [
       "Kaggnazi",
@@ -171,6 +169,29 @@
 
     "Nazi": ["Kaggnazi"],
     "nazi": ["kaggnazi"],
+
+    "Rudi": [
+      "Rudi",
+      "Rudi aus Buddeln",
+      "SS-Obersturmbannführer Rudolf Winkler",
+      "Nazi-Kriegsverbrecher Rudolf Winkler"
+    ],
+
+    "Rita": [
+      "Rita",
+      "Riter",
+      "Rita aus Weiden",
+    ],
+
+    "Ramona": [
+      "Ramona",
+      "Ramoner"
+    ],
+
+    "reddit": ["Lachschon"],
+
+    "Musik hören": ["headbangen"],
+    "Musik gehört": ["geheadbangt"],
 
     " dumm ": [" brainschaden "],
 
@@ -186,7 +207,10 @@
 
     "fit" : ["fidd"],
 
-    "nicht hören": ["Ich hör dich ned du Spack, ich hab Kopfhörer auf"],
+    "nicht hören": [
+      "Ich hör dich ned du Spack, ich hab Kopfhörer auf",
+      "can you not hear"
+    ],
 
     "Job": ["Tschobb"],
     "job": ["Tschobb"],
@@ -291,8 +315,8 @@
       "Froind"
     ],
 
-    "Penis": ["Speer", "Pimml", "Späher"],
-    "penis": ["Speer", "Pimml", "Späher"],
+    "Penis": ["Speer", "Pimml", "Späher", "Pensi"],
+    "penis": ["Speer", "Pimml", "Späher", "pensi"],
 
     "Katana": ["Blechklinge", "hamstori hanser schwerd"],
     "katana": ["Blechklinge", "hamstori hanser schwerd"],
@@ -317,7 +341,7 @@
 
     "bedeutet": ["imblementiert"],
 
-    "nice": ["naise"],
+    "nice": ["nais"],
 
     "gelaufen": ["gemeddeld"],
 
@@ -658,6 +682,8 @@
     " Jungfrau": ["ungefickt"],
     "jungfräulich": ["ungefickt"],
 
+    "Sexschreiben": ["seggsschreibne"],
+
     "PornHub": ["PH"],
     "Pornhub": ["PH"],
     "pornhub": ["PH"],
@@ -667,7 +693,17 @@
 
     "Danke": ["Danke dafür iBlali"],
 
+    "weniger": ["wenicher"],
+
     "wenig": ["a weng"],
+
+    "fake": ["feek"],
+    "Fakemulle": ["Feekmulle", "Beerchen"],
+
+    "Halts Maul": ["HALT *atmen* DEINE *atmen* FRESSE"],
+    "halts Maul": ["HALT *atmen* DEINE *atmen* FRESSE"],
+    "Halts maul": ["HALT *atmen* DEINE *atmen* FRESSE"],
+    "halts maul": ["HALT *atmen* DEINE *atmen* FRESSE"],
 
     "tatsächlich": [
       "tazächlich",
@@ -677,6 +713,13 @@
     ],
 
     "Metal": ["Meddl"],
+
+    "Besuche": ["Pilgerreisen"],
+    "Besuch": ["Pilgerreise"],
+
+    "implizier": ["implementier"],
+
+    "Mund": ["Schlund"],
 
     "!": [
       " etzala!",
