@@ -1,34 +1,6 @@
 {
   "translate": {
 
-    "en ":  ["ne "],
-    "en. ": ["ne. "],
-    "tz":   ["ds"],
-    "tel ":  ["dl "],
-    "ph":   ["f"],
-    "Ph":   ["F"],
-    "pa":   ["boa"],
-    "ck":   ["gg"],
-    " Sp": [" Schb"],
-    " sp": [" schb"],
-    " St": [" Schd"],
-    " st": [" schd"],
-    " ch":  [" k"],
-    " Ch":  [" K"],
-    "eug ":   ["euch "],
-    "t":    ["d"],
-    "T":    ["D"],
-    " v":   [" f"],
-    "v ":   ["f "],
-    "v":    ["w"],
-    "V":    ["W"],
-    "x":    ["ggs"],
-    "X":    ["ggs"],
-    "p":    ["b"],
-    "P":    ["B"],
-    "k":    ["g"],
-    "K":    ["G"],
-
     "Rainer": [
       "Ruiner",
       "Reiner",
@@ -192,7 +164,9 @@
     ],
     "idiot": [
       "Kaggnazi",
-      "Wiggsgrübbl"
+      "Wiggsgrübbl",
+      "Affennecher",
+      "Spaggn"
     ],
 
     "Nazi": ["Kaggnazi"],
@@ -360,6 +334,9 @@
 
     "Kumpel": ["Gumbl"],
     "kumpel": ["gumbl"],
+
+    " Jungfrau": ["ungefickt"],
+    "jungfräulich": ["ungefickt"],
 
     "Frau": ["Mulle", "Weib"],
     "frau": ["mulle", "weib"],
@@ -716,9 +693,6 @@
     "wichsen": ["wiggsne"],
     "masturbieren": ["wiggsne"],
 
-    " Jungfrau": ["ungefickt"],
-    "jungfräulich": ["ungefickt"],
-
     "Sexschreiben": ["seggsschreibne"],
 
     "PornHub": ["PH"],
@@ -779,6 +753,34 @@
 
     ".": [" hätt ich gsachd.", " des bascht scho.", " alda.", " tadsächlich sogar.", ".", ".",".",".",".","."],
 
-    " \"": [" *ferstellt Stimme:* \"Üh, "]
+    " \"": [" *ferstellt Stimme:* \"Üh, "],
+
+    "en ":  ["ne "],
+    "en. ": ["ne. "],
+    "tz":   ["ds"],
+    "tel ":  ["dl "],
+    "ph":   ["f"],
+    "Ph":   ["F"],
+    "pa":   ["boa"],
+    "ck":   ["gg"],
+    " Sp": [" Schb"],
+    " sp": [" schb"],
+    " St": [" Schd"],
+    " st": [" schd"],
+    " ch":  [" k"],
+    " Ch":  [" K"],
+    "eug ":   ["euch "],
+    "t":    ["d"],
+    "T":    ["D"],
+    " v":   [" f"],
+    "v ":   ["f "],
+    "v":    ["w"],
+    "V":    ["W"],
+    "x":    ["ggs"],
+    "X":    ["ggs"],
+    "p":    ["b"],
+    "P":    ["B"],
+    "k":    ["g"],
+    "K":    ["G"]
   }
 }
