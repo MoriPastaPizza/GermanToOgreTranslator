@@ -702,6 +702,15 @@
     "warum": ["warummäh"],
     "Warum": ["Warummäh"],
 
+    "Juden": ["jetzt der Drache"],
+    "juden": ["jetzt der Drache"],
+
+    "Jude": ["jetzt der Drache"],
+    "jude": ["jetzt der Drache"],
+
+    "TL;DR": ["könnt ihr selber lesen, bin zu faul"],
+    "tl;dr": ["könnt ihr selber lesen, bin zu faul"],
+
     "Danke": ["Danke dafür iBlali"],
 
     "weniger": ["wenicher"],
@@ -732,6 +741,52 @@
 
     "Mund": ["Schlund"],
 
+    " \"": [" *ferstellt Stimme:* \"Üh, "],
+
+    "en ":  ["ne "],
+    "en.": ["ne."],
+    "en?": ["ne?"],
+    "en!": ["ne!"],
+    "en,": ["ne,"],
+    "tz":   ["ds"],
+    "tel ":  ["dl "],
+    "tel.":  ["dl."],
+    "tel?":  ["dl?"],
+    "tel!":  ["dl!"],
+    "tel,":  ["dl,"],
+    "ph":   ["f"],
+    "Ph":   ["F"],
+    "pa":   ["boa"],
+    "ck":   ["gg"],
+    " Sp": [" Schb"],
+    " sp": [" schb"],
+    " St": [" Schd"],
+    " st": [" schd"],
+    " ch":  [" k"],
+    " Ch":  [" K"],
+    "eug ":   ["euch "],
+    "eug.":   ["euch."],
+    "eug?":   ["euch?"],
+    "eug!":   ["euch!"],
+    "eug,":   ["euch,"],
+    "t":    ["d"],
+    "T":    ["D"],
+    " v":   [" f"],
+    " V":   [" F"],
+    "v ":   ["f "],
+    "v.":   ["f."],
+    "v?":   ["f?"],
+    "v!":   ["f!"],
+    "v,":   ["f,"],
+    "v":    ["w"],
+    "V":    ["W"],
+    "x":    ["ggs"],
+    "X":    ["ggs"],
+    "p":    ["b"],
+    "P":    ["B"],
+    "k":    ["g"],
+    "K":    ["G"],
+
     "!": [
       " etzala!",
       " tazächlich!",
@@ -751,36 +806,6 @@
       "?"
     ],
 
-    ".": [" hätt ich gsachd.", " des bascht scho.", " alda.", " tadsächlich sogar.", ".", ".",".",".",".","."],
-
-    " \"": [" *ferstellt Stimme:* \"Üh, "],
-
-    "en ":  ["ne "],
-    "en. ": ["ne. "],
-    "tz":   ["ds"],
-    "tel ":  ["dl "],
-    "ph":   ["f"],
-    "Ph":   ["F"],
-    "pa":   ["boa"],
-    "ck":   ["gg"],
-    " Sp": [" Schb"],
-    " sp": [" schb"],
-    " St": [" Schd"],
-    " st": [" schd"],
-    " ch":  [" k"],
-    " Ch":  [" K"],
-    "eug ":   ["euch "],
-    "t":    ["d"],
-    "T":    ["D"],
-    " v":   [" f"],
-    "v ":   ["f "],
-    "v":    ["w"],
-    "V":    ["W"],
-    "x":    ["ggs"],
-    "X":    ["ggs"],
-    "p":    ["b"],
-    "P":    ["B"],
-    "k":    ["g"],
-    "K":    ["G"]
+    ".": [" hätt ich gsachd.", " des bascht scho.", " alda.", " tadsächlich sogar.", ".", ".",".",".",".","."]
   }
 }
