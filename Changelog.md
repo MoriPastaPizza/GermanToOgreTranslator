@@ -4,6 +4,18 @@ Alle wichtigen Änderungen sind hier
 
 Basierend auf: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+
+## 1.1.2 - 18-06-2020
+### Added
+- Neue Header
+- Am Satzanfang kommt nun ab und zu Etzadla (Danke an anonymen Haider)
+
+### Changed
+- Zufallskomponente funktioniert nun vollständig => bessere Übersetzung & keine gleichen Übersetztungen im Post
+
+### Fixed
+- Generische Buchstaben verbessert
+
 ## 1.1.1 - 15-06-2020
 ### Added
 - Viele neue Wörter danke an [RudiAusBuddeln](https://github.com/RudiAusBuddeln)

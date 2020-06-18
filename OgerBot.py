@@ -131,14 +131,23 @@ class OgreBot(threading.Thread):
     def __translate_to_ogre_speak(self, text_to_translate):
 
         full_list = self.__dictionary['translate']
+        text_to_translate = text_to_translate.splitlines()
+        translated_text_bytes = b""
 
-        # NO!!! you can't just go through a whole Json Dictionary and check everything
-        # hahah for loop goes: brrrrrrrrrrrrrrrrrrrrrrrr
-        for key, item in full_list.items():
-            word_to_translate = key
-            text_to_translate = text_to_translate.replace(word_to_translate, random.choice(item))
+        # NO!!! you can't just go through a whole Json Dictionary and check everything twice
+        # hahah for loops go: brrrrrrrrrrrrrrrrrrrrrrrr
 
-        return text_to_translate
+        for line_to_translate in text_to_translate:
+
+            translated_line = line_to_translate
+
+            for key, item in full_list.items():
+                word_to_translate = re.escape(key)
+                translated_line = re.sub(word_to_translate, lambda m: re.escape(random.choice(item)), translated_line)
+
+            translated_text_bytes += translated_line.encode() + b'\n'
+
+        return translated_text_bytes.decode("utf-8").replace("\\", "")
 
     def __check_if_valid_message(self, message):
         if message.type == 'username_mention' or 'u/' + self.__bot_name in message.body:
