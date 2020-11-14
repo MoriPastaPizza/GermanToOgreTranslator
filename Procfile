@@ -1,0 +1,1 @@
+woker: python3.8 OgerBot.py

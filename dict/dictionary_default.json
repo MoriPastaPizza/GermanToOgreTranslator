@@ -42,7 +42,8 @@
       "Mastoger",
       "Winklar",
       "Dr.Dr.h.c.M.A Winkler",
-      "Speggi"
+      "Speggi",
+      "Ofenkäsevernichter"
     ],
 
     "Drachenlord": [
@@ -64,7 +65,8 @@
       "Vierteltonner",
       "Animewelt Lord",
       "Diabetesdumbo",
-      "selbständiger Schichtarbeiter"
+      "selbständiger Schichtarbeiter",
+      "Ofenkäsevernichter"
     ],
 
     "Lord": [
@@ -91,7 +93,8 @@
       "Net der Drache verdammte Aggst",
       "Speckeimer",
       "Suppengmogo",
-      "Wuchtbrummer"
+      "Wuchtbrummer",
+      "Ofenkäsevernichter"
     ],
 
     "Bauch": [
@@ -131,6 +134,9 @@
       " Servus und wilkommen ",
       " Gonitschiwa "
     ],
+
+    "Headbang": ["Hettbäng"],
+    "headbang": ["hettbäng"],
 
     " leute ": [" loide "],
     " Leute ": [" Loide "],
@@ -799,7 +805,7 @@
     ],
 
     "?": [
-      " Oda wat?",
+      " Odääh?",
       " Hä?",
       " und weida?",
       "?",
