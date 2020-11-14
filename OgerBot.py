@@ -4,6 +4,7 @@ import json
 import random
 import threading
 import re
+import urllib.request
 from datetime import datetime
 
 import praw
@@ -209,6 +210,8 @@ class OgreBot(threading.Thread):
 
 def startup():
     try:
+        url = os.environ['PRAWURL']
+        urllib.request.urlretrieve(url, 'praw.ini')
         my_bot = OgreBot("DeutschZuOgerBot", "PastaPizzaSecretAgent", test_mode=False)
         my_bot.start()
         input("Press enter to exit")
