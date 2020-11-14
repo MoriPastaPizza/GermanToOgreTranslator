@@ -192,12 +192,12 @@ class OgreBot(threading.Thread):
 
         configuration['FOOTER'] = "\n\n ***  \n" + configuration['INFO_LINK'] \
                                   + "&#32;|&#32;" + "&#32;|&#32;" + configuration['GITHUB_LINK']\
-                                  + "&#32;|&#32;" + "&#32;|&#32;" + "**NEW** " + configuration['CHANGELOG_LINK']
+                                  + "&#32;|&#32;" + "&#32;|&#32;" + configuration['DISCORD_LINK']
 
         configuration['FOOTER_ERROR'] = "\n\n ***  \n" + configuration['INFO_TEXT_ERROR'] + "\n" \
                                         + configuration['INFO_LINK'] + "&#32;|&#32;" + "&#32;|&#32;" \
                                         + configuration['GITHUB_LINK'] \
-                                        + "&#32;|&#32;" + "&#32;|&#32;" + "**NEW** " + configuration['CHANGELOG_LINK']
+                                        + "&#32;|&#32;" + "&#32;|&#32;" + configuration['DISCORD_LINK']
 
         return configuration
 
