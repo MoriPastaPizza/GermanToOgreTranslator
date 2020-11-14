@@ -214,9 +214,8 @@ def startup():
         urllib.request.urlretrieve(url, 'praw.ini')
         my_bot = OgreBot("DeutschZuOgerBot", "PastaPizzaSecretAgent", test_mode=False)
         my_bot.start()
-        input("Press enter to exit")
-        my_bot.stop()
-        del my_bot
+        while True:
+            time.sleep(20)
     except Exception as e:
         print(e)
         print("Restarting...")
