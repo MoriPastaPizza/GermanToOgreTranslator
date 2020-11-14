@@ -1,1 +1,1 @@
-woker: python3.8 OgerBot.py
+woker: python OgerBot.py
